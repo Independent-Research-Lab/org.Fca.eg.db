@@ -22,7 +22,7 @@ To load library:
 library(org.Fca.eg.db)
 ```
 ## Contact
-For issues, bugs, or suggestions regarding this org.Fca.eg,db library, please contact Roua Popescu at roua@independent-research.ro.
+For issues, bugs, or suggestions regarding this org.Fca.eg,db library, please contact Roua Popescu at roua@independent-research.ro
 
 ## Please cite our work:
 Popescu, R.G. *org.Fca.eg.db*: Genome Wide Annotation for Domestic Cat, R package version 0.1, 2025. Available online: https://github.com/Independent-Research-Lab/org.Fca.eg.db
