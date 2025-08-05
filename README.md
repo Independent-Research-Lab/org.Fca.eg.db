@@ -2,9 +2,9 @@ Due to limitations on file size, our data can not be uploaded on GitHub.
 It is available on the link below instead:
 http://gofile.me/76Mv5/PGj6BzMaW
 
-#Organism: Felis catus
-#taxID 9685
-#NCBI assembly: F.catus_Fca126_mat1.0  / GCF_018350175.1
+Organism: Felis catus
+taxID 9685
+NCBI assembly: F.catus_Fca126_mat1.0  / GCF_018350175.1
 
 To install this package, start R and enter:
 install.packages("./org.Fca.eg.db", repos = NULL, type = "source")
