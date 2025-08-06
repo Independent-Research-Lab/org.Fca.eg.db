@@ -1,5 +1,5 @@
 # org.Fca.eg.db
-This is an R package that contains genome wide annotation for *Felis catus* (domestic cat).
+This is an R package that contains gene ID mappings and Gene Ontology (GO) annotations for *Felis catus* (domestic cat).
 Due to limitations on file size, our data can not be uploaded on GitHub. 
 It is available on the link below instead:
 http://gofile.me/76Mv5/PGj6BzMaW
